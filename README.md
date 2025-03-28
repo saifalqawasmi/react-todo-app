@@ -14,4 +14,4 @@ A simple ToDo application built with React.
 3. Start the app: `npm start`
 
 ## Screenshot
-![App Screenshot](./screenshot.png) (upload an image of your app)
+![App Screenshot](./screenshot.png)
